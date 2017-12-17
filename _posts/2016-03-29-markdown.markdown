@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "3D Print"
-subtitle: "3D Printing Process"
+title: "Project pictures and video"
+subtitle: "group 1 ddego"
 date: 1918-04-01
 author: 鲁迅
 category: books
@@ -9,3 +9,8 @@ tags: chinese luxun story
 finished: true
 ---
 
+![](kisuhy.github.io/완성1.png)
+![](kisuhy.github.io/완성2.png)
+![](kisuhy.github.io/완성3.png)
+![](kisuhy.github.io/완성4.png)
+![](kisuhy.github.io/완성5.png)
